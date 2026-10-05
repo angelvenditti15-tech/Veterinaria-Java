@@ -2,8 +2,6 @@
 
 Aplicación de consola en **Java 17+** para gestionar una clínica veterinaria: registro de dueños, veterinarios y mascotas (perros, gatos y aves), consultas con costo variable según la especie, internaciones, reportes y persistencia de datos entre ejecuciones.
 
-Proyecto pensado para practicar y demostrar **programación orientada a objetos** y buenas prácticas básicas de diseño, sin frameworks externos.
-
 ## Qué incluye
 
 | Concepto | Dónde se ve |
