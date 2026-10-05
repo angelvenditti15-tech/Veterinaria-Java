@@ -103,4 +103,4 @@ java -ea -cp bin PruebasClinica
 
 ## Autor
 
-**Tu Nombre** · [GitHub](https://github.com/tu-usuario) · [LinkedIn](https://linkedin.com/in/tu-usuario)
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](www.linkedin.com/in/vendittiangel)
