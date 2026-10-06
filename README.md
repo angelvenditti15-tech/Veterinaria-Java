@@ -101,4 +101,4 @@ java -ea -cp bin PruebasClinica
 
 ## Autor
 
-**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](www.linkedin.com/in/vendittiangel)
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](https://www.linkedin.com/in/vendittiangel/))
